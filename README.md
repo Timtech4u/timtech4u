@@ -4,4 +4,5 @@ He is also a DevOps Enthusiast with a passion for automation and an open-source 
 
 Tim is an active member of various developers communities, where he focuses on making impacts and sharing his experiences whilst learning. 
 
+You can also hire me as a freelancer on CodeMentor
 [![Contact me on Codementor](https://www.codementor.io/m-badges/timtech4u/im-a-cm-b.svg)](https://www.codementor.io/@timtech4u?refer=badge)
