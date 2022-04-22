@@ -3,3 +3,5 @@ Tim is a software developer who builds awesome stuff, he has a wide experience i
 He is also a DevOps Enthusiast with a passion for automation and an open-source hobbyist, in his free time, he writes a lot of Cloud-related articles and makes open source contributions on GitHub.
 
 Tim is an active member of various developers communities, where he focuses on making impacts and sharing his experiences whilst learning. 
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/timtech4u/im-a-cm-b.svg)](https://www.codementor.io/@timtech4u?refer=badge)
